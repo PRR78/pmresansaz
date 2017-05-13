@@ -135,7 +135,7 @@ function processMessage($message) {
 به ربات ما امتیاز بدید  👈        [⭐️IPVResanRObot⭐️](https://telegram.me/storebot?start=IPVResanRobot)
 
 🔹هر نفر = یک ربات ✖️
-🔸ربات دوم = 2000ت ✔️
+🔸ربات دوم = 5000ت ✔️
 🤖 @IPvResanRoBot',"parse_mode"=>"MARKDOWN","disable_web_page_preview"=>"true"));
 
 
